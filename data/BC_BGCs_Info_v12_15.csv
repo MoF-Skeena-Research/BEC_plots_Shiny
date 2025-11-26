@@ -1,0 +1,214 @@
+Source,Zone,Subzone,BGC_Label,BGC,ZoneName,SubzoneName
+BGCv11,BAFA,BAFAun,BAFAun,BAFAun,Boreal Altai Fescue Alpine,Undifferentiated  BAFA
+BGCv11,BAFA,BAFAunp,BAFAunp,BAFAunp,Boreal Altai Fescue Alpine,Undifferentiated and Parkland  BAFA
+BGCv11,BG,BGxh,BG  xh 1,BGxh1,Bunchgrass,Very Dry Hot Okanagan BG  
+BGCv11,BG,BGxh,BG  xh 2,BGxh2,Bunchgrass,Very Dry Hot Thompson BG  
+BGCv11,BG,BGxh,BG  xh 3,BGxh3,Bunchgrass,Very Dry Hot Fraser BG  
+BGCv11,BG,BGxw,BG  xw 1,BGxw1,Bunchgrass,Very Dry Warm Nicola BG  
+BGCv11,BG,BGxw,BG  xw 2,BGxw2,Bunchgrass,Very Dry Warm Alkali BG  
+BGCv11,BWBS,BWBSdk,BWBSdk,BWBSdk,Boreal White and Black Spruce,Dry Cool  BWBS
+BGCv11,BWBS,BWBSmk,BWBSmk,BWBSmk,Boreal White and Black Spruce,Moist Cool  BWBS
+BGCv11,BWBS,BWBSmw,BWBSmw,BWBSmw,Boreal White and Black Spruce,Moist Warm  BWBS
+BGCv11,BWBS,BWBSvk,BWBSvk,BWBSvk,Boreal White and Black Spruce,Very Wet Cool   BWBS
+BGCv11,BWBS,BWBSwk,BWBSwk 1,BWBSwk1,Boreal White and Black Spruce,Wet Cool Murray BWBS
+BGCv11,BWBS,BWBSwk,BWBSwk 2,BWBSwk2,Boreal White and Black Spruce,Wet Cool Graham BWBS
+BGCv11,BWBS,BWBSwk,BWBSwk 3,BWBSwk3,Boreal White and Black Spruce,Wet Cool Kledo BWBS
+BGCv11,CDF,CDFmm,CDF mm,CDFmm,Coastal Douglas-fir,Moist Maritime   CDF 
+BGCv11,CMA,CMAun,CMA un,CMAun,Coastal Mountain-heather Alpine,Undifferentiated  CMA 
+BGCv11,CMA,CMAunp,CMA unp,CMAunp,Coastal Mountain-heather Alpine,Undifferentiated and Parkland  CMA 
+BGCv11,CMA,CMAwh,CMA wh,CMAwh,Coastal Mountain-heather Alpine,Wet Hypermaritime  CMA 
+BGCv11,CWH,CWHdm,CWH dm,CWHdm,Coastal Western Hemlock,Dry Maritime   CWH 
+BGCv11,CWH,CWHds,CWH ds 1,CWHds1,Coastal Western Hemlock,Dry Submaritime Southern CWH 
+BGCv11,CWH,CWHds,CWH ds 2,CWHds2,Coastal Western Hemlock,Dry Submaritime Central CWH 
+BGCv11,CWH,CWHmm,CWH mm 1,CWHmm1,Coastal Western Hemlock,Moist Maritime Submontane CWH 
+BGCv11,CWH,CWHmm,CWH mm 2,CWHmm2,Coastal Western Hemlock,Moist Maritime Montane CWH 
+BGCv11,CWH,CWHms,CWH ms 1,CWHms1,Coastal Western Hemlock,Moist Submaritime Southern CWH 
+BGCv11,CWH,CWHms,CWH ms 2,CWHms2,Coastal Western Hemlock,Moist Submaritime Central CWH 
+BGCv11,CWH,CWHvh,CWH vh 1,CWHvh1,Coastal Western Hemlock,Very Wet Hypermaritime Southern CWH 
+BGCv11,CWH,CWHvh,CWH vh 2,CWHvh2,Coastal Western Hemlock,Very Wet Hypermaritime Central CWH 
+BGCv11,CWH,CWHvh,CWH vh 3,CWHvh3,Coastal Western Hemlock,Very Wet Hypermaritime Haida Gwaii CWH 
+BGCv11,CWH,CWHvm,CWH vm 1,CWHvm1,Coastal Western Hemlock,Very Wet Maritime Submontane CWH 
+BGCv11,CWH,CWHvm,CWH vm 2,CWHvm2,Coastal Western Hemlock,Very Wet Maritime Montane CWH 
+BGCv11,CWH,CWHwh,CWH wh 1,CWHwh1,Coastal Western Hemlock,Wet Hypermaritime Submontane CWH 
+BGCv11,CWH,CWHwh,CWH wh 2,CWHwh2,Coastal Western Hemlock,Wet Hypermaritime Montane CWH 
+BGCv11,CWH,CWHwm,CWH wm,CWHwm,Coastal Western Hemlock,Wet Maritime   CWH 
+BGCv11,CWH,CWHws,CWH ws 1,CWHws1,Coastal Western Hemlock,Wet Submaritime Submontane CWH 
+BGCv11,CWH,CWHws,CWH ws 2,CWHws2,Coastal Western Hemlock,Wet Submaritime Montane CWH 
+BGCv11,CWH,CWHxm,CWH xm 1,CWHxm1,Coastal Western Hemlock,Very Dry Maritime Eastern CWH 
+BGCv11,CWH,CWHxm,CWH xm 2,CWHxm2,Coastal Western Hemlock,Very Dry Maritime Western CWH 
+BGCv11,ESSF,ESSFdc,ESSFdc 1,ESSFdc1,Engelmann Spruce -- Subalpine Fir,Dry Cold Monashee ESSF
+BGCv11,ESSF,ESSFdc,ESSFdc 2,ESSFdc2,Engelmann Spruce -- Subalpine Fir,Dry Cold Cascade ESSF
+BGCv11,ESSF,ESSFdc,ESSFdc 3,ESSFdc3,Engelmann Spruce -- Subalpine Fir,Dry Cold North Thompson ESSF
+BGCv11,ESSF,ESSFdcp,ESSFdcp,ESSFdcp,Engelmann Spruce -- Subalpine Fir,Dry Cold Parkland   ESSF
+BGCv11,ESSF,ESSFdcw,ESSFdcw,ESSFdcw,Engelmann Spruce -- Subalpine Fir,Dry Cold Woodland   ESSF
+BGCv12,ESSF,ESSFdh,ESSFdh1,ESSFdh1,Engelmann Spruce - Subalpine Fir,Dry Hot ESSF
+BGCv12,ESSF,ESSFdh,ESSFdh2,ESSFdh2,Engelmann Spruce - Subalpine Fir,Dry Hot ESSF
+BGCv11,ESSF,ESSFdk,ESSFdk 1,ESSFdk1,Engelmann Spruce -- Subalpine Fir,Dry Cool Elk ESSF
+BGCv11,ESSF,ESSFdk,ESSFdk 2,ESSFdk2,Engelmann Spruce -- Subalpine Fir,Dry Cool Columbia ESSF
+BGCv11,ESSF,ESSFdkp,ESSFdkp,ESSFdkp,Engelmann Spruce -- Subalpine Fir,Dry Cool Parkland   ESSF
+BGCv11,ESSF,ESSFdkw,ESSFdkw,ESSFdkw,Engelmann Spruce -- Subalpine Fir,Dry Cool Woodland   ESSF
+BGCv11,ESSF,ESSFdv,ESSFdv 1,ESSFdv1,Engelmann Spruce -- Subalpine Fir,Dry Very Cold Cayoosh ESSF
+BGCv11,ESSF,ESSFdv,ESSFdv 2,ESSFdv2,Engelmann Spruce -- Subalpine Fir,Dry Very Cold Tyaughton ESSF
+BGCv11,ESSF,ESSFdvp,ESSFdvp,ESSFdvp,Engelmann Spruce -- Subalpine Fir,Dry Very Cold Parkland   ESSF
+BGCv11,ESSF,ESSFdvw,ESSFdvw,ESSFdvw,Engelmann Spruce -- Subalpine Fir,Dry Very Cold Woodland  ESSF
+BGCv11,ESSF,ESSFmc,ESSFmc,ESSFmc,Engelmann Spruce -- Subalpine Fir,Moist Cold   ESSF
+BGCv11,ESSF,ESSFmcp,ESSFmcp,ESSFmcp,Engelmann Spruce -- Subalpine Fir,Moist Cold Parkland   ESSF
+BGCv12,ESSF,ESSFmcw,ESSFmcw,ESSFmcw,Engelmann Spruce - Subalpine Fir,Moist Cold Woodland   ESSF
+BGCv11,ESSF,ESSFmh,ESSFmh,ESSFmh,Engelmann Spruce -- Subalpine Fir,Moist Hot  ESSF
+BGCv11,ESSF,ESSFmk,ESSFmk,ESSFmk,Engelmann Spruce -- Subalpine Fir,Moist Cool   ESSF
+BGCv11,ESSF,ESSFmkp,ESSFmkp,ESSFmkp,Engelmann Spruce -- Subalpine Fir,Moist Cool Parkland   ESSF
+BGCv12,ESSF,ESSFmkw,ESSFmkw,ESSFmkw,Engelmann Spruce - Subalpine Fir,Moist Cool Woodland   ESSF
+BGCv11,ESSF,ESSFmm,ESSFmm 1,ESSFmm1,Engelmann Spruce -- Subalpine Fir,Moist Mild Raush ESSF
+BGCv11,ESSF,ESSFmm,ESSFmm 2,ESSFmm2,Engelmann Spruce -- Subalpine Fir,Moist Mild Robson ESSF
+BGCv11,ESSF,ESSFmm,ESSFmm 3,ESSFmm3,Engelmann Spruce -- Subalpine Fir,Moist Mild Spillimacheen ESSF
+BGCv11,ESSF,ESSFmmp,ESSFmmp,ESSFmmp,Engelmann Spruce -- Subalpine Fir,Moist Mild Parkland   ESSF
+BGCv11,ESSF,ESSFmmw,ESSFmmw,ESSFmmw,Engelmann Spruce -- Subalpine Fir,Moist Mild Woodland  ESSF
+BGCv11,ESSF,ESSFmv,ESSFmv 1,ESSFmv1,Engelmann Spruce -- Subalpine Fir,Moist Very Cold Nechako ESSF
+BGCv11,ESSF,ESSFmv,ESSFmv 2,ESSFmv2,Engelmann Spruce -- Subalpine Fir,Moist Very Cold Bullmoose ESSF
+BGCv11,ESSF,ESSFmv,ESSFmv 3,ESSFmv3,Engelmann Spruce -- Subalpine Fir,Moist Very Cold Omineca ESSF
+BGCv11,ESSF,ESSFmv,ESSFmv 4,ESSFmv4,Engelmann Spruce -- Subalpine Fir,Moist Very Cold Graham ESSF
+BGCv11,ESSF,ESSFmvp,ESSFmvp,ESSFmvp,Engelmann Spruce -- Subalpine Fir,Moist Very Cold Parkland   ESSF
+BGCv11,ESSF,ESSFmw,ESSFmw,ESSFmw,Engelmann Spruce -- Subalpine Fir,Moist Warm   ESSF
+BGCv11,ESSF,ESSFmw,ESSFmw 1,ESSFmw1,Engelmann Spruce -- Subalpine Fir,Moist Warm Cascade ESSF
+BGCv11,ESSF,ESSFmw,ESSFmw 2,ESSFmw2,Engelmann Spruce -- Subalpine Fir,Moist Warm Stein ESSF
+BGCv11,ESSF,ESSFmwp,ESSFmwp,ESSFmwp,Engelmann Spruce -- Subalpine Fir,Moist Warm Parkland   ESSF
+BGCv11,ESSF,ESSFmww,ESSFmww,ESSFmww,Engelmann Spruce -- Subalpine Fir,Moist Warm Woodland  ESSF
+BGCv11,ESSF,ESSFun,ESSFun,ESSFun,Engelmann Spruce -- Subalpine Fir,Undifferentiated   ESSF
+BGCv11,ESSF,ESSFunp,ESSFunp,ESSFunp,Engelmann Spruce -- Subalpine Fir,Undifferentiated parkland  ESSF
+BGCv11,ESSF,ESSFvc,ESSFvc,ESSFvc,Engelmann Spruce -- Subalpine Fir,Very Wet Cold   ESSF
+BGCv11,ESSF,ESSFvcp,ESSFvcp,ESSFvcp,Engelmann Spruce -- Subalpine Fir,Very Wet Cold Parkland   ESSF
+BGCv11,ESSF,ESSFvcw,ESSFvcw,ESSFvcw,Engelmann Spruce -- Subalpine Fir,Very Wet Cold Woodland  ESSF
+BGCv11,ESSF,ESSFwc,ESSFwc 2,ESSFwc2,Engelmann Spruce -- Subalpine Fir,Wet Cold Monashee ESSF
+BGCv11,ESSF,ESSFwc,ESSFwc 3,ESSFwc3,Engelmann Spruce -- Subalpine Fir,Wet Cold Cariboo ESSF
+BGCv11,ESSF,ESSFwc,ESSFwc 4,ESSFwc4,Engelmann Spruce -- Subalpine Fir,Wet Cold Selkirk ESSF
+BGCv11,ESSF,ESSFwcp,ESSFwcp,ESSFwcp,Engelmann Spruce -- Subalpine Fir,Wet Cold Parkland   ESSF
+BGCv11,ESSF,ESSFwcw,ESSFwcw,ESSFwcw,Engelmann Spruce -- Subalpine Fir,Wet Cold Woodland   ESSF
+BGCv11,ESSF,ESSFwh,ESSFwh 1,ESSFwh1,Engelmann Spruce -- Subalpine Fir,Wet Hot Columbia ESSF
+BGCv11,ESSF,ESSFwh,ESSFwh 2,ESSFwh2,Engelmann Spruce -- Subalpine Fir,Wet Hot St Mary ESSF
+BGCv11,ESSF,ESSFwh,ESSFwh 3,ESSFwh3,Engelmann Spruce -- Subalpine Fir,Wet Hot Salmo ESSF
+BGCv11,ESSF,ESSFwk,ESSFwk 1,ESSFwk1,Engelmann Spruce -- Subalpine Fir,Wet Cool Cariboo ESSF
+BGCv11,ESSF,ESSFwk,ESSFwk 2,ESSFwk2,Engelmann Spruce -- Subalpine Fir,Wet Cool Misinchinka ESSF
+BGCv11,ESSF,ESSFwm,ESSFwm 1,ESSFwm1,Engelmann Spruce -- Subalpine Fir,Wet Mild Fernie ESSF
+BGCv11,ESSF,ESSFwm,ESSFwm 2,ESSFwm2,Engelmann Spruce -- Subalpine Fir,Wet Mild Purcell ESSF
+BGCv11,ESSF,ESSFwm,ESSFwm 3,ESSFwm3,Engelmann Spruce -- Subalpine Fir,Wet Mild Ymir ESSF
+BGCv11,ESSF,ESSFwm,ESSFwm 4,ESSFwm4,Engelmann Spruce -- Subalpine Fir,Wet Mild Moyie ESSF
+BGCv11,ESSF,ESSFwmp,ESSFwmp,ESSFwmp,Engelmann Spruce -- Subalpine Fir,Wet Mild Parkland   ESSF
+BGCv11,ESSF,ESSFwmw,ESSFwmw,ESSFwmw,Engelmann Spruce -- Subalpine Fir,Wet Mild Woodland   ESSF
+BGCv11,ESSF,ESSFwv,ESSFwv,ESSFwv,Engelmann Spruce -- Subalpine Fir,Wet Very Cold   ESSF
+BGCv11,ESSF,ESSFwvp,ESSFwvp,ESSFwvp,Engelmann Spruce -- Subalpine Fir,Wet Very Cold Parkland   ESSF
+BGCv12,ESSF,ESSFwvw,ESSFwvw,ESSFwvw,Engelmann Spruce - Subalpine Fir,Wet Very Cold Woodland   ESSF
+BGCv11,ESSF,ESSFxc,ESSFxc 1,ESSFxc1,Engelmann Spruce -- Subalpine Fir,Very Dry Cold Similkameen ESSF
+BGCv11,ESSF,ESSFxc,ESSFxc 2,ESSFxc2,Engelmann Spruce -- Subalpine Fir,Very Dry Cold Thompson ESSF
+BGCv11,ESSF,ESSFxc,ESSFxc 3,ESSFxc3,Engelmann Spruce -- Subalpine Fir,Very Dry Cold Pavillion ESSF
+BGCv11,ESSF,ESSFxcp,ESSFxcp,ESSFxcp,Engelmann Spruce -- Subalpine Fir,Very Dry Cold Parkland   ESSF
+BGCv11,ESSF,ESSFxcw,ESSFxcw,ESSFxcw,Engelmann Spruce -- Subalpine Fir,Very Dry Cold Woodland  ESSF
+BGCv11,ESSF,ESSFxv,ESSFxv 1,ESSFxv1,Engelmann Spruce -- Subalpine Fir,Very Dry Very Cold West Chilcotin ESSF
+BGCv11,ESSF,ESSFxv,ESSFxv 2,ESSFxv2,Engelmann Spruce -- Subalpine Fir,Very Dry Very Cold Big Creek ESSF
+BGCv11,ESSF,ESSFxvp,ESSFxvp,ESSFxvp,Engelmann Spruce -- Subalpine Fir,Very Dry Very Cold Parkland   ESSF
+BGCv11,ESSF,ESSFxvw,ESSFxvw,ESSFxvw,Engelmann Spruce -- Subalpine Fir,Very Dry Very Cold Woodland  ESSF
+BGCv11,ICH,ICHdk,ICH dk,ICHdk,Interior Cedar -- Hemlock,Dry Cool   ICH 
+BGCv11,ICH,ICHdm,ICH dm,ICHdm,Interior Cedar -- Hemlock,Dry Mild   ICH 
+BGCv11,ICH,ICHdw,ICH dw 1,ICHdw1,Interior Cedar -- Hemlock,Dry Warm West Kootenay ICH 
+BGCv11,ICH,ICHdw,ICH dw 3,ICHdw3,Interior Cedar -- Hemlock,Dry Warm North Thompson ICH 
+BGCv11,ICH,ICHdw,ICH dw 4,ICHdw4,Interior Cedar -- Hemlock,Dry Warm Shuswap ICH 
+BGCv11,ICH,ICHmc,ICH mc 1,ICHmc1,Interior Cedar -- Hemlock,Moist Cold Nass ICH 
+BGCv11,ICH,ICHmca,ICH mc 1a,ICHmc1a,Interior Cedar -- Hemlock,Moist Cold Nass ICH 
+BGCv11,ICH,ICHmc,ICH mc 2,ICHmc2,Interior Cedar -- Hemlock,Moist Cold Hazelton ICH 
+BGCv11,ICH,ICHmk,ICH mk 1,ICHmk1,Interior Cedar -- Hemlock,Moist Cool Okanagan ICH 
+BGCv11,ICH,ICHmk,ICH mk 2,ICHmk2,Interior Cedar -- Hemlock,Moist Cool Thompson ICH 
+BGCv11,ICH,ICHmk,ICH mk 3,ICHmk3,Interior Cedar -- Hemlock,Moist Cool Horsefly ICH 
+BGCv11,ICH,ICHmk,ICH mk 4,ICHmk4,Interior Cedar -- Hemlock,Moist Cool Kootenay ICH 
+BGCv11,ICH,ICHmk,ICH mk 5,ICHmk5,Interior Cedar -- Hemlock,Moist Cool Kootenay ICH 
+BGCv11,ICH,ICHmm,ICH mm,ICHmm,Interior Cedar -- Hemlock,Moist Mild   ICH 
+BGCv11,ICH,ICHmw,ICH mw 1,ICHmw1,Interior Cedar -- Hemlock,Moist Warm Kinbasket ICH 
+BGCv11,ICH,ICHmw,ICH mw 2,ICHmw2,Interior Cedar -- Hemlock,Moist Warm Slocan ICH 
+BGCv11,ICH,ICHmw,ICH mw 3,ICHmw3,Interior Cedar -- Hemlock,Moist Warm Thompson ICH 
+BGCv11,ICH,ICHmw,ICH mw 4,ICHmw4,Interior Cedar -- Hemlock,Moist Warm Ymir ICH 
+BGCv11,ICH,ICHmw,ICH mw 5,ICHmw5,Interior Cedar -- Hemlock,Moist Warm Granby ICH 
+BGCv11,ICH,ICHvc,ICH vc,ICHvc,Interior Cedar -- Hemlock,Very Wet Cold   ICH 
+BGCv11,ICH,ICHvk,ICH vk 1,ICHvk1,Interior Cedar -- Hemlock,Very Wet Cool Columbia ICH 
+BGCv11,ICH,ICHvk,ICH vk 2,ICHvk2,Interior Cedar -- Hemlock,Very Wet Cool Slim ICH 
+BGCv11,ICH,ICHwc,ICH wc,ICHwc,Interior Cedar -- Hemlock,Wet Cold   ICH 
+BGCv11,ICH,ICHwk,ICH wk 1,ICHwk1,Interior Cedar -- Hemlock,Wet Cool Shuswap ICH 
+BGCv11,ICH,ICHwk,ICH wk 2,ICHwk2,Interior Cedar -- Hemlock,Wet Cool Quesnel ICH 
+BGCv11,ICH,ICHwk,ICH wk 3,ICHwk3,Interior Cedar -- Hemlock,Wet Cool Goat ICH 
+BGCv11,ICH,ICHwk,ICH wk 4,ICHwk4,Interior Cedar -- Hemlock,Wet Cool Cariboo ICH 
+BGCv12,ICH,ICHxm,ICH xm1,ICHxm1,Interior Cedar -- Hemlock,Very Dry Mild   ICH 
+BGCv11,ICH,ICHxw,ICH xw,ICHxw,Interior Cedar -- Hemlock,Very Dry Warm   ICH 
+BGCv11,ICH,ICHxwa,ICH xw  a,ICHxwa,Interior Cedar -- Hemlock,Very Dry Warm  ICH 
+BGCv11,IDF,IDFdc,IDF dc,IDFdc,Interior Douglas-fir,Dry Cold  IDF 
+BGCv12,IDF,IDFdh,IDF dh,IDFdh,Interior Douglas-fir,Dry Hot  IDF
+BGCv11,IDF,IDFdk,IDF dk 1,IDFdk1,Interior Douglas-fir,Dry Cool Thompson IDF 
+BGCv11,IDF,IDFdk,IDF dk 2,IDFdk2,Interior Douglas-fir,Dry Cool Cascade IDF 
+BGCv11,IDF,IDFdk,IDF dk 3,IDFdk3,Interior Douglas-fir,Dry Cool Fraser IDF 
+BGCv11,IDF,IDFdk,IDF dk 4,IDFdk4,Interior Douglas-fir,Dry Cool Chilcotin IDF 
+BGCv11,IDF,IDFdk,IDF dk 5,IDFdk5,Interior Douglas-fir,Dry Cool Columbia IDF 
+BGCv11,IDF,IDFdm,IDF dm 1,IDFdm1,Interior Douglas-fir,Dry Mild Kettle IDF 
+BGCv11,IDF,IDFdm,IDF dm 2,IDFdm2,Interior Douglas-fir,Dry Mild Kootenay IDF 
+BGCv11,IDF,IDFdw,IDF dw,IDFdw,Interior Douglas-fir,Dry Warm   IDF 
+BGCv11,IDF,IDFmw,IDF mw 2,IDFmw2,Interior Douglas-fir,Moist Warm Thompson IDF 
+BGCv11,IDF,IDFww,IDF ww,IDFww,Interior Douglas-fir,Wet Warm   IDF 
+BGCv11,IDF,IDFww,IDF ww 1,IDFww1,Interior Douglas-fir,Wet Warm Stein IDF 
+BGCv11,IDF,IDFxc,IDF xc,IDFxc,Interior Douglas-fir,Very Dry Cold  IDF 
+BGCv11,IDF,IDFxh,IDF xh 1,IDFxh1,Interior Douglas-fir,Very Dry Hot Okanagan IDF 
+BGCv11,IDF,IDFxh,IDF xh 2,IDFxh2,Interior Douglas-fir,Very Dry Hot Thompson IDF 
+BGCv11,IDF,IDFxk,IDF xk,IDFxk,Interior Douglas-fir,Very Dry Cool   IDF 
+BGCv11,IDF,IDFxm,IDF xm,IDFxm,Interior Douglas-fir,Very Dry Mild   IDF 
+BGCv11,IDF,IDFxw,IDF xw,IDFxw,Interior Douglas-fir,Very Dry Warm IDF
+BGCv12,IDF,IDFxx,IDF xx 1,IDFxx1,Interior Douglas-fir,Very Dry Very Hot Kettle IDF 
+BGCv11,IDF,IDFxx,IDF xx 2,IDFxx2,Interior Douglas-fir,Very Dry Very Hot Kootenay IDF 
+BGCv11,IMA,IMAun,IMA un,IMAun,Interior Mountain-heather Alpine,Undifferentiated  IMA 
+BGCv11,IMA,IMAunp,IMA unp,IMAunp,Interior Mountain-heather Alpine,Undifferentiated and Parkland  IMA 
+BGCv11,MH,MHmm,MH  mm 1,MHmm1,Mountain Hemlock,Moist Maritime Windward MH  
+BGCv11,MH,MHmm,MH  mm 2,MHmm2,Mountain Hemlock,Moist Maritime Leeward MH  
+BGCv11,MH,MHmmp,MH  mmp,MHmmp,Mountain Hemlock,Moist Maritime Parkland   MH  
+BGCv11,MH,MHun,MH  un,MHun,Mountain Hemlock,Undifferentiated   MH  
+BGCv11,MH,MHunp,MH  unp,MHunp,Mountain Hemlock,Undifferentiated parkland  MH  
+BGCv11,MH,MHwh,MH  wh,MHwh,Mountain Hemlock,Wet Hypermaritime   MH  
+BGCv11,MH,MHwh,MH  wh 1,MHwh1,Mountain Hemlock,Wet Hypermaritime Windward MH  
+BGCv11,MH,MHwhp,MH  whp,MHwhp,Mountain Hemlock,Wet Hypermaritime Parkland   MH  
+BGCv11,MS,MSdc,MS  dc 1,MSdc1,Montane Spruce,Dry Cold Cayoosh MS  
+BGCv11,MS,MSdc,MS  dc 2,MSdc2,Montane Spruce,Dry Cold Tatlayoko MS  
+BGCv11,MS,MSdc,MS  dc 3,MSdc3,Montane Spruce,Dry Cold Tyaughton MS  
+BGCv11,MS,MSdk,MS  dk,MSdk,Montane Spruce,Dry Cool   MS  
+BGCv11,MS,MSdm,MS  dm 1,MSdm1,Montane Spruce,Dry Mild Okanagan MS  
+BGCv11,MS,MSdm,MS  dm 2,MSdm2,Montane Spruce,Dry Mild Cascade MS  
+BGCv11,MS,MSdm,MS  dm 3,MSdm3,Montane Spruce,Dry Mild North Thompson MS  
+BGCv11,MS,MSdv,MS  dv,MSdv,Montane Spruce,Dry Very Cold   MS  
+BGCv11,MS,MSdw,MS  dw,MSdw,Montane Spruce,Dry Warm  MS  
+BGCv11,MS,MSxk,MS  xk 1,MSxk1,Montane Spruce,Very Dry Cool Similkameen MS  
+BGCv11,MS,MSxk,MS  xk 2,MSxk2,Montane Spruce,Very Dry Cool South Thompson MS  
+BGCv11,MS,MSxk,MS  xk 3,MSxk3,Montane Spruce,Very Dry Cool Pavillion MS  
+BGCv11,MS,MSxv,MS  xv,MSxv,Montane Spruce,Very Dry Very Cold   MS  
+BGCv11,PP,PPxh,PP  xh 1,PPxh1,Ponderosa Pine,Very Dry Hot Okanagan PP  
+BGCv11,PP,PPxh,PP  xh 2,PPxh2,Ponderosa Pine,Very Dry Hot Thompson PP  
+BGCv11,SBPS,SBPSdc,SBPSdc,SBPSdc,Sub-boreal Pine -- Spruce,Dry Cold   SBPS
+BGCv11,SBPS,SBPSmc,SBPSmc,SBPSmc,Sub-boreal Pine -- Spruce,Moist Cold   SBPS
+BGCv11,SBPS,SBPSmk,SBPSmk,SBPSmk,Sub-boreal Pine -- Spruce,Moist Cool   SBPS
+BGCv11,SBPS,SBPSxc,SBPSxc,SBPSxc,Sub-boreal Pine -- Spruce,Very Dry Cold   SBPS
+BGCv11,SBS,SBSdh,SBS dh 1,SBSdh1,Sub-boreal Spruce,Dry Hot McLennan SBS 
+BGCv11,SBS,SBSdh,SBS dh 2,SBSdh2,Sub-boreal Spruce,Dry Hot Robson SBS 
+BGCv11,SBS,SBSdk,SBS dk,SBSdk,Sub-boreal Spruce,Dry Cool   SBS 
+BGCv11,SBS,SBSdw,SBS dw 1,SBSdw1,Sub-boreal Spruce,Dry Warm Horsefly SBS 
+BGCv11,SBS,SBSdw,SBS dw 2,SBSdw2,Sub-boreal Spruce,Dry Warm Blackwater SBS 
+BGCv11,SBS,SBSdw,SBS dw 3,SBSdw3,Sub-boreal Spruce,Dry Warm Stuart SBS 
+BGCv11,SBS,SBSmc,SBS mc 1,SBSmc1,Sub-boreal Spruce,Moist Cold Moffat SBS 
+BGCv11,SBS,SBSmc,SBS mc 2,SBSmc2,Sub-boreal Spruce,Moist Cold Babine SBS 
+BGCv11,SBS,SBSmc,SBS mc 3,SBSmc3,Sub-boreal Spruce,Moist Cold Kluskus SBS 
+BGCv11,SBS,SBSmh,SBS mh,SBSmh,Sub-boreal Spruce,Moist Hot   SBS 
+BGCv11,SBS,SBSmk,SBS mk 1,SBSmk1,Sub-boreal Spruce,Moist Cool Mossvale SBS 
+BGCv11,SBS,SBSmk,SBS mk 2,SBSmk2,Sub-boreal Spruce,Moist Cool Williston SBS 
+BGCv11,SBS,SBSmm,SBS mm,SBSmm,Sub-boreal Spruce,Moist Mild   SBS 
+BGCv11,SBS,SBSmw,SBS mw,SBSmw,Sub-boreal Spruce,Moist Warm   SBS 
+BGCv11,SBS,SBSun,SBS un,SBSun,Sub-boreal Spruce,Undifferentiated   SBS 
+BGCv11,SBS,SBSvk,SBS vk,SBSvk,Sub-boreal Spruce,Very Wet Cool   SBS 
+BGCv11,SBS,SBSwk,SBS wk 1,SBSwk1,Sub-boreal Spruce,Wet Cool Willow SBS 
+BGCv11,SBS,SBSwk,SBS wk 2,SBSwk2,Sub-boreal Spruce,Wet Cool Finlay-Peace SBS 
+BGCv11,SBS,SBSwk,SBS wk 3,SBSwk3,Sub-boreal Spruce,Wet Cool Takla SBS 
+BGCv11,SBS,SBSwka,SBS wk 3a,SBSwk3a,Sub-boreal Spruce,Wet Cool Takla SBS 
+BGCv11,SWB,SWBmk,SWB mk,SWBmk,Spruce - Willow - Birch,Moist Cool   SWB 
+BGCv11,SWB,SWBmks,SWB mks,SWBmks,Spruce - Willow - Birch,Moist Cool Scrub   SWB 
+BGCv11,SWB,SWBun,SWB un,SWBun,Spruce - Willow - Birch,Undifferentiated   SWB 
+BGCv11,SWB,SWBuns,SWB uns,SWBuns,Spruce - Willow - Birch,Undifferentiated scrub  SWB 
+BGCv11,SWB,SWBvk,SWB vk,SWBvk,Spruce - Willow - Birch,Very Wet Cool   SWB 
+BGCv11,SWB,SWBvks,SWB vks,SWBvks,Spruce - Willow - Birch,Very Wet Cool Scrub   SWB 
